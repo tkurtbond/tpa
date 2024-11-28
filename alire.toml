@@ -1,0 +1,13 @@
+name = "tpa"
+description = ""
+version = "0.1.0-dev"
+
+authors = ["T. Kurt Bond"]
+maintainers = ["T. Kurt Bond <tkurtbond@gmail.com>"]
+maintainers-logins = ["tkurtbond"]
+licenses = "ISC"
+website = ""
+tags = []
+
+[[depends-on]]
+parse_args = "~0.9.0"
